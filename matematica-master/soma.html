@@ -1,0 +1,145 @@
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<meta id="viewport" name="viewport" content="width=device-width, user-scalable=no" />
+	<title>Soma</title>
+	<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="css/geral.css" />
+	<script type="text/javascript" src="script/soma.js"></script>
+	<script type="text/javascript">
+		window.onload = function () {
+			document.querySelector(".menuMobile").addEventListener("click", function () {
+				if (document.querySelector(".menu nav ul").style.display == 'flex') {
+					document.querySelector(".menu nav ul").style.display = 'none';
+				} else {
+					document.querySelector(".menu nav ul").style.display = 'flex';
+				}
+			});
+		};
+	</script>
+</head>
+
+<body>
+	<header>
+		<div id="header">
+			<div class="logo" s>
+				<a href="index.html"><img src="images/icone2.jpg"></a>
+			</div>
+			<div class="menu">
+				<nav>
+					<div class="menuMobile">
+						<div class="mm_line"></div>
+						<div class="mm_line"></div>
+						<div class="mm_line"></div>
+					</div>
+					<ul>
+						<li><a href="soma.html">ADIÇÃO</a></li>
+						<li><a href="subtracao.html">SUBTRAÇÃO</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
+	<div class="linha"></div>
+	<br>
+	<br>
+	<br>
+	<br>
+	<h1>Soma</h1>
+	<br>
+	<br>
+	</div>
+	<div>
+		<section class="grid grid-auto-flow-1">
+			<div class="balao">
+				<div class="item">
+					Coloque o maior número na cabeça e o menor mostre usando em suas mãos.
+					Por exemplo[ 7 + 2 ], 7 na cabeça e 2 dedos na mão. E comece a contar a partir do número da sua
+					cabeça
+					e continue contando até terminar os dedos que separou nas mãos.</div>
+			</div>
+
+			<div class="item">
+				<div class="container_conta">
+					<div id="n1">
+						4
+					</div>
+					<div class="sinal">
+						+
+					</div>
+					<div id="n2">
+						2
+					</div>
+				</div>
+				<div class="container_resposta">
+					<h4 id="resultado">Resultado</h4>
+					<input type="number" id="resposta" required />
+				</div>
+				<div class="container_mensagem">
+					<div id="mensagem">
+
+					</div>
+					<button onclick="responder()" id="responder">Responder</button>
+				</div>
+			</div>
+	</div>
+
+	<div class="item"> 
+	<main>
+		<div class="left-block">
+		  <div class="colors">
+			<button type="button" value="#0000ff"></button>
+			<button type="button" value="#009fff"></button>
+			<button type="button" value="#0fffff"></button>
+			<button type="button" value="#bfffff"></button>
+			<button type="button" value="#000000"></button>
+			<button type="button" value="#333333"></button>
+			<button type="button" value="#666666"></button>
+			<button type="button" value="#999999"></button>
+			<button type="button" value="#ffcc66"></button>
+			<button type="button" value="#ffcc00"></button>
+			<button type="button" value="#ffff00"></button>
+			<button type="button" value="#ffff99"></button>
+			<button type="button" value="#003300"></button>
+			<button type="button" value="#555000"></button>
+			<button type="button" value="#00ff00"></button>
+			<button type="button" value="#99ff99"></button>
+			<button type="button" value="#f00000"></button>
+			<button type="button" value="#ff6600"></button>
+			<button type="button" value="#ff9933"></button>
+			<button type="button" value="#f5deb3"></button>
+			<button type="button" value="#330000"></button>
+			<button type="button" value="#663300"></button>
+			<button type="button" value="#cc6600"></button>
+			<button type="button" value="#deb887"></button>
+			<button type="button" value="#aa0fff"></button>
+			<button type="button" value="#cc66cc"></button>
+			<button type="button" value="#ff66ff"></button>
+			<button type="button" value="#ff99ff"></button>
+			<button type="button" value="#e8c4e8"></button>
+			<button type="button" value="#ffffff"></button>
+		  </div>
+		  <div class="brushes">
+			<button type="button" value="1"></button>
+			<button type="button" value="2"></button>
+			<button type="button" value="3"></button>
+			<button type="button" value="4"></button>
+			<button type="button" value="5"></button>
+		  </div>
+		  <div class="buttons">
+			<button id="clear" type="button">Clear</button>
+			<button id="save" type="button">Save</button>
+		  </div>
+		</div>
+		<div class="right-block">
+		  <canvas id="paint-canvas" width="640" height="400"></canvas>
+		</div>
+	  </main>
+	</div>
+	</section>
+	</div>
+	</div>
+</body>
+
+</html>
