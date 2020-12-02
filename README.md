@@ -47,8 +47,17 @@ Solução:
   
   Podemos usar recursos como Paint, games, mensagens sobre técnicas visuais ou videos voltados para cada operação matemática. Usando jogos de plataforma o qual o resultado final não é liberado na hora e sim a criança precisa contabilizar senão não passa para a próxima fase, como perda de x moedas por vida ou ganho por um troféu. A princípio, encontrei a GODOT como uma plataforma gratuita ṕara elaborar os jogos e pode ser utilizada em plataformas WEB.
   
-  ![alt text] (https://github.com/RobertaAb/Metodologia_Inclusao/blob/main/index.png?raw=true)
+https://github.com/RobertaAb/Metodologia_Inclusao/blob/main/index.png
 
+https://github.com/RobertaAb/Metodologia_Inclusao/blob/main/game2.png
+
+https://github.com/RobertaAb/Metodologia_Inclusao/blob/main/mensagem%20.jpg
+
+https://github.com/RobertaAb/Metodologia_Inclusao/blob/main/paint.png
+
+https://github.com/RobertaAb/Metodologia_Inclusao/blob/main/soma.png
+
+https://github.com/RobertaAb/Metodologia_Inclusao/blob/main/subtracao.png
 
 
 #Bibliografia
