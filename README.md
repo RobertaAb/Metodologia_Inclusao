@@ -47,6 +47,8 @@ Solução:
   
   Podemos usar recursos como Paint, games, mensagens sobre técnicas visuais ou videos voltados para cada operação matemática. Usando jogos de plataforma o qual o resultado final não é liberado na hora e sim a criança precisa contabilizar senão não passa para a próxima fase, como perda de x moedas por vida ou ganho por um troféu. A princípio, encontrei a GODOT como uma plataforma gratuita ṕara elaborar os jogos e pode ser utilizada em plataformas WEB.
   
+  
+  
 https://github.com/RobertaAb/Metodologia_Inclusao/blob/main/index.png
 
 https://github.com/RobertaAb/Metodologia_Inclusao/blob/main/game2.png
@@ -61,10 +63,18 @@ https://github.com/RobertaAb/Metodologia_Inclusao/blob/main/subtracao.png
 
 
 #Bibliografia
-http://www.galvaofilho.net/DI_tecnologias.pdf
-http://www.educ.fc.ul.pt/docentes/jponte/sd/textos/gti-joao-almiro.pdf
-http://repositorio.ufu.br/bitstream/123456789/14303/1/f.pdf
-https://github.com/RobertaAb/Metodologia_Inclusao
+GALVÃO FILHO, Teófilo. Deficiência intelectual e tecnologias no contexto da escola inclusiva. In:
+GOMES, Cristina (org.). Discriminação e racismo nas Américas: um problema de justiça, equidade e
+direitos humanos. Curitiba: CRV, 2016, p. 305-321. ISBN: 978-85-444-1214-5.
+Também disponível em: <http://www.galvaofilho.net/DI_tecnologias.htm> 
+
+ALMIRO, João. Materiais manipuláveis e tecnologia na aula de Matemática. Escola Secundária de Tondela.2004.
+Também disponível em: http://www.educ.fc.ul.pt/docentes/jponte/sd/textos/gti-joao-almiro.pdf> 
+
+FRANCIELLE DE OLIVEIRA MALAQUIAS,Fernanda. Ralidade Virtual como Tecnologia Assistida para alunos com deficiência Intelectual.Universidade Federal de Uberlândia - Programa de Pós-Graduação em Engenharia Eletrica. Disponível em: <http://repositorio.ufu.br/bitstream/123456789/14303/1/f.pdf
+>. Acesso em: dia, mês e ano.
+
+ HENRIQUE VENEZIANO, Wilson. HELENA BORGES ESTEVÃO PEREIRA, Maraísa. SANTIAGO SPÍNDOLA THOMAZ, Lucas. EDUARDO GOMES MOREIRA, Thales. MELLER, Neuza.Ferramenta Educacional de Tecnologia Assistiva para o Ensino e Prática da Matemática Social de Jovens e Adultos.V Congresso Brasileiro de Informática na Educação (CBIE 2016) Anais do XXVII Simpósio Brasileiro de Informática na Educação (SBIE 2016).DOI: 10.5753/cbie.sbie.2016.886. Disponível em:Brasileiro de Informática na Educação (SBIE 2013).< http://www.br-ie.org/pub/index.php/sbie/article/view/2526>
 
 
 
