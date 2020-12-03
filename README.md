@@ -71,10 +71,11 @@ Também disponível em: <http://www.galvaofilho.net/DI_tecnologias.htm>
 ALMIRO, João. Materiais manipuláveis e tecnologia na aula de Matemática. Escola Secundária de Tondela.2004.
 Também disponível em: http://www.educ.fc.ul.pt/docentes/jponte/sd/textos/gti-joao-almiro.pdf> 
 
-FRANCIELLE DE OLIVEIRA MALAQUIAS,Fernanda. Ralidade Virtual como Tecnologia Assistida para alunos com deficiência Intelectual.Universidade Federal de Uberlândia - Programa de Pós-Graduação em Engenharia Eletrica. Disponível em: <http://repositorio.ufu.br/bitstream/123456789/14303/1/f.pdf
->. Acesso em: dia, mês e ano.
+FRANCIELLE DE OLIVEIRA MALAQUIAS,Fernanda. Ralidade Virtual como Tecnologia Assistida para alunos com deficiência Intelectual.Universidade Federal de Uberlândia - Programa de Pós-Graduação em Engenharia Eletrica. Disponível em: <http://repositorio.ufu.br/bitstream/123456789/14303/1/f.pdf>
 
  HENRIQUE VENEZIANO, Wilson. HELENA BORGES ESTEVÃO PEREIRA, Maraísa. SANTIAGO SPÍNDOLA THOMAZ, Lucas. EDUARDO GOMES MOREIRA, Thales. MELLER, Neuza.Ferramenta Educacional de Tecnologia Assistiva para o Ensino e Prática da Matemática Social de Jovens e Adultos.V Congresso Brasileiro de Informática na Educação (CBIE 2016) Anais do XXVII Simpósio Brasileiro de Informática na Educação (SBIE 2016).DOI: 10.5753/cbie.sbie.2016.886. Disponível em:Brasileiro de Informática na Educação (SBIE 2013).< http://www.br-ie.org/pub/index.php/sbie/article/view/2526>
+
+UREL CARBONE CARNEIRO, Relma. CAROLINA BRANCO COSTA, Maria.Tecnologia e deficiência intelectual: práticas pedagógicas para inclusão digital .RPGE– Revista on line de Política e Gestão Educacional, v.21, n. esp. 1, p. 706-719, out./2017.ISSN:1519-9029 Disponível em:< http://dx.doi.org/10.22633/rpge.v21.n.esp1.out.2017.10449>
 
 
 
